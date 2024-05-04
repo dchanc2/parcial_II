@@ -1,0 +1,1 @@
+insert into studiantes (name, email, create_at) values ('Leonardo', 'dchanc2', NOW());
